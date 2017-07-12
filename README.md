@@ -1,6 +1,9 @@
-# MonadHome
+# monads-gui
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
+> The core interface app for the monads desktop server.
+
+
+> This app was built using Angular. Development help below...
 
 ## Development server
 
