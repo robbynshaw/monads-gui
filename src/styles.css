@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url(http://fonts.googleapis.com/css?family=Muli|Open+Sans+Condensed:300,300italic,700|Arimo:700,700italic|Indie+Flower|Arsenal:500|Slabo+27px|Amatic+SC:700|Raleway:300|Sorts+Mill+Goudy|Maven+Pro);
+
+body {
+  margin: 5px 0 0 5px;
+  font-family: 'Muli', serif;
+  color: #887373;
+  letter-spacing: 1px;
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    margin: 20px 0 20px 20px;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Raleway', Helvetica, sans-serif;
+  color: #444;
+}

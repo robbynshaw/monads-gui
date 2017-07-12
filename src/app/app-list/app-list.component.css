@@ -1,0 +1,16 @@
+ul.app-links {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.app-links li {
+  margin-bottom: 10px;
+}
+
+ul.app-links .app-name {
+}
+
+ul.app-links .app-description {
+  display: block;
+  padding-left: 10px;
+}

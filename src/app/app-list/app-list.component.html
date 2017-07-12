@@ -1,0 +1,11 @@
+<h2>Apps</h2>
+<div>
+  <ul class="app-links">
+    <li *ngFor="let app of apps">
+      <span class="app-name">
+        <a href="/app/{{app.Name}}">{{app.Name}}</a>
+      </span>
+      <span class="app-description">{{app.Description}}</span>
+    </li>
+  </ul>
+</div>
